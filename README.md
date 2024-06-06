@@ -17,6 +17,8 @@ Buttons are dropped at the scanning booth (1), then the computer detects what ki
 
 The left frame is camera screen. The right one is tracking screen, which is used to track the buttons and determine if they are color defective. At the bottom, you can find the name of the project, the counter to track the quantity of each button type, and the RESET and EXIT buttons.
 
+- To open UI: go to folder ***Detect_object*** --> choose ***Detect_object.py*** then run it.
+
 # Detecting button
 
 ![giaodien2](https://github.com/tung1406/defective-product-gripping-system/assets/105976089/fb387905-859c-4d42-8cc8-517f6aa9af89)
