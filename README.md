@@ -17,7 +17,7 @@ Buttons are dropped at the scanning booth (1), then the computer detects what ki
 
 The left frame is camera screen. The right one is tracking screen, which is used to track the buttons and determine if they are color defective. At the bottom, you can find the name of the project, the counter to track the quantity of each button type, and the RESET and EXIT buttons.
 
-- To open UI: go to folder ***Detect_object*** --> choose ***Detect_object.py*** then run it.
+- To open UI: go to folder ***Detect_object*** --> choose ***Detect_object.py*** then run it. (Choose ***deep_sort_tracking_id.py*** to open source code).
 
 # Detecting button
 
