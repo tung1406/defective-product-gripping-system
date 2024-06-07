@@ -23,7 +23,10 @@ The left frame is camera screen. The right one is tracking screen, which is used
 
 ![UI2](https://github.com/tung1406/defective-product-gripping-system/assets/105976089/fb387905-859c-4d42-8cc8-517f6aa9af89)
 
-There are three lines: purple, cyan, and green. The purple line is used for tracking the buttons. The cyan one is used for determining color-defective buttons. The last line is used for counting the quantity.
+- There are three lines: purple, cyan, and green.
+  - The purple line is used for tracking the buttons.
+  - The cyan line is used for determining color-defective buttons.
+  - The last line is used for counting the quantity.
 
 ![UI3](https://github.com/tung1406/defective-product-gripping-system/assets/105976089/eb7dca14-3b07-4d03-a75c-0872b14e74f2)
 
